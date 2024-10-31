@@ -4,11 +4,23 @@
 ## 🚜 Process
   The assignment was to search users who has 50 above followers from Zuchin city. and repositories of these users. There is no direct way to find users with repos. First we need to fetch the users, then repositories of that each users but upto **500 latest repos** . ```request``` library made easy for consuming the API including the parameteres and API KEY.
 ## 💡Insights
-#### Top Programming Languages as per data:
+### Top Programming Languages as per data:
 - Python (3966 repositories)
 - JavaScript (3746 repositories)
 - C++ (1561 repositories)
 - Java (1111 repositories)
 
-#### Most popolar users
-- 
+![](images/top-lang.png)
+
+
+### Repository creation trend over time
+![](images/repo-create.png)
+
+### Most popular users
+![](images/top1.png)
+
+### Most popular licence
+![](images/licence.png)
+
+
+
